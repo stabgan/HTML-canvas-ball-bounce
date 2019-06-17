@@ -1,2 +1,3 @@
-# HTML-canvas-ball-bounce
-A simple ball bouncing game made with HTML canvas
+# HTML Canvas 
+
+A simple project made to learn Canvas manipulation and drawing with HTMl
